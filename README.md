@@ -1,4 +1,4 @@
-# curso-spring-boot-angular
+# Curso Spring Boot Angular
 
 Projetos desenvolvidos em um curso de Spring Boot e Angular na Udemy.
 
