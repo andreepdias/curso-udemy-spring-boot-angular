@@ -40,6 +40,10 @@ Também é construído com Spring Boot. Utiliza modelo de dados relacional mas c
 
 Existe apenas uma entidade: Contato.
 
+### Frontend
+
+Escrito em Angular 9 e componentes do Angular Material.
+
 ### Screenshots
 
 <br>
